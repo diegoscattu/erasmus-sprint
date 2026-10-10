@@ -59,8 +59,8 @@
   </main>
 </div><div id="toast" class="toast" role="status"></div>
 <script>window.addEventListener('error',function(e){setTimeout(function(){var box=document.createElement('pre');box.id='jsError';box.style.cssText='position:fixed;inset:20px;z-index:999;background:#4b1010;color:white;padding:20px;white-space:pre-wrap';box.textContent='JavaScript error: '+e.message+'\nLine '+e.lineno+', column '+e.colno;document.body.appendChild(box)},0)});</script>
-<script src="./grammar-data.js"></script>
-<script src="./speaking-data.js"></script>
+<script src="./grammar_data.js"></script>
+<script src="./speaking_data.js"></script>
 <script>
 const PROFILE_COUNT=4;
 function parsedJSON(raw,fallback){try{return raw===null?fallback:JSON.parse(raw)}catch(e){return fallback}}

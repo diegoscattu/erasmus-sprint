@@ -1,8 +1,8 @@
-const CACHE_NAME = "erasmus-sprint-v2-mobile-scroll";
+const CACHE_NAME = "erasmus-sprint-v3-assets";
 const APP_SHELL = [
   "./",
-  "./grammar-data.js",
-  "./speaking-data.js",
+  "./grammar_data.js",
+  "./speaking_data.js",
   "./manifest.webmanifest",
   "./app-icon.svg"
 ];
