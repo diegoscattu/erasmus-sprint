@@ -1,0 +1,24 @@
+{
+  "name": "Erasmus Sprint",
+  "short_name": "Erasmus",
+  "description": "Inglese pratico per la vita Erasmus: grammatica, roleplay, speaking e vocabolario.",
+  "lang": "it",
+  "start_url": "./?source=github-pages-pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f3eb",
+  "theme_color": "#245a3f",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

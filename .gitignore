@@ -1,0 +1,22 @@
+# File locali e credenziali
+.env
+.env.*
+__pycache__/
+*.pyc
+.edge-qa-*/
+qa-*.png
+
+# Backend e sorgenti locali: il repository pubblico contiene solo docs/.
+/app.py
+/export_github_pages.py
+/grammar_data.js
+/speaking_data.js
+/manifest.webmanifest
+/sw.js
+/app-icon.svg
+
+# Materiale personale/didattico non destinato alla pubblicazione
+/testi/
+/libri/
+*.docx
+*.pdf
