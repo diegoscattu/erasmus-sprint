@@ -1,4 +1,4 @@
-const CACHE_NAME = "erasmus-sprint-v5-single-user";
+const CACHE_NAME = "erasmus-sprint-v6-compact-speaking";
 const APP_SHELL = [
   "./",
   "./grammar_data.js",
