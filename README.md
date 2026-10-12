@@ -80,6 +80,6 @@ alternative di registro in un formato prevedibile.
 - **Writing:** correzione, motivo dell'errore in italiano e registri formale/naturale/informale.
 - **Roleplay:** scenari coinquilino, professore e pub.
 - **Speaking:** archivio di 500 frasi reali (100 per luoghi pubblici, 150 per il ristorante e 250 per l'università), con ricerca bilingue, filtri per situazione, traduzione italiana, ascolto normale/lento, speech-to-text, confronto della pronuncia e progresso salvato nel browser.
-- **1000 parole:** flashcard ad alta frequenza con ricerca e stato “conosciuta”. Il prototipo include il primo nucleo; il dataset è pronto per essere esteso.
+- **1000 parole:** dataset completo di 1.000 parole ad alta frequenza con traduzione, esempio contestuale, filtro per situazione, pronuncia, ricerca e stato “conosciuta”. Le card vengono caricate a blocchi per mantenere fluido lo scorrimento su telefono.
 
 I dati dei quattro profili sono salvati in `localStorage` nel browser utilizzato. Non sono sincronizzati tra dispositivi e non richiedono account o password.

@@ -11,6 +11,7 @@ qa-*.png
 /export_github_pages.py
 /grammar_data.js
 /speaking_data.js
+/vocabulary_data.js
 /manifest.webmanifest
 /sw.js
 /app-icon.svg
